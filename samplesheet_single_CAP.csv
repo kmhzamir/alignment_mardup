@@ -1,0 +1,2 @@
+sample,lane,fastq_1,fastq_2,sex,phenotype,paternal_id,maternal_id,case_id
+CAP,1,/home/user2/Desktop/raredisease-dev/reference/INDEX/CAP_R1.fq.gz,/home/user2/Desktop/raredisease-dev/reference/INDEX/CAP_R2.fq.gz,2,2,0,0,CAP

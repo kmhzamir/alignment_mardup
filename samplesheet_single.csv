@@ -1,0 +1,2 @@
+sample,lane,fastq_1,fastq_2,sex,phenotype,paternal_id,maternal_id,case_id
+hugelymodelbat,1,/home/user2/Desktop/raredisease-dev/reference/1_171015_HHT5NDSXX_hugelymodelbat_XXXXXX_1.fastq.gz,/home/user2/Desktop/raredisease-dev/reference/1_171015_HHT5NDSXX_hugelymodelbat_XXXXXX_2.fastq.gz,1,2,0,0,justhusky

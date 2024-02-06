@@ -1,0 +1,18 @@
+{
+    "analysis_type": "wgs",
+    "genome": "GRCh38",
+
+    
+    "input": "samplesheet_single.csv",
+    "outdir": "run10wgs/",
+    
+    "bwa": "/home/user2/Desktop/raredisease-dev/reference/bwa/",
+    "bwamem2": "/home/user2/Desktop/raredisease-dev/reference/INDEX/",
+    "fasta" : "/home/user2/Desktop/raredisease-dev/reference/INDEX/genome.fa",
+    "fai": "/home/user2/Desktop/raredisease-dev/reference/INDEX/genome.fa.fai",
+    "intervals_wgs": "/home/user2/Desktop/raredisease-dev/reference/genome.interval_list",
+    "intervals_y": "/home/user2/Desktop/raredisease-dev/reference/genomeY.interval_list",
+    
+}
+
+

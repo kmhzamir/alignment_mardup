@@ -1,0 +1,20 @@
+{
+    "analysis_type": "wes",
+    "genome": "GRCh38",
+
+    
+    "input": "samplesheet_single_CAP.csv",
+    "outdir": "run04wes/",
+    
+    "bwa": "/home/user2/Desktop/raredisease-dev/reference/bwa/",
+    "bwamem2": "/home/user2/Desktop/raredisease-dev/reference/INDEX/",
+    "fasta" : "/home/user2/Desktop/raredisease-dev/reference/INDEX/genome.fa",
+    "fai": "/home/user2/Desktop/raredisease-dev/reference/INDEX/genome.fa.fai",
+    "intervals_wgs": "/home/user2/Desktop/raredisease-dev/reference/genome.interval_list",
+    "intervals_y": "/home/user2/Desktop/raredisease-dev/reference/genomeY.interval_list",
+
+    "target_bed" : "/home/user2/Desktop/raredisease-dev/reference/S33266340_AllTracks.bed"
+    
+}
+
+
